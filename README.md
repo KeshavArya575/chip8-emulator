@@ -38,7 +38,7 @@ gcc src/main.c src/chip8.c src/display.c -o chip8 \
 ```
 ## Screenshot
 
-![CHIP-8 Screenshot](assets/screenshot.png)
+![CHIP-8 Screenshot](assets/ss.png)
 
 ## TODO
 
