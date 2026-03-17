@@ -36,7 +36,9 @@ gcc src/main.c src/chip8.c src/display.c -o chip8 \
 ```bash
 ./chip8 roms/IBM_logo.ch8
 ```
+## Screenshot
 
+![CHIP-8 Screenshot](assets/screenshot.png)
 
 ## TODO
 
