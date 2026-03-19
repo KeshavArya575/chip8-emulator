@@ -40,7 +40,7 @@ gcc src/main.c src/chip8.c src/display.c -o chip8 \
 
 ![CHIP-8 Screenshot](assets/ss.png)
 
-## TODO
+## TO-DO
 
 * Keyboard input
 * More opcode support
