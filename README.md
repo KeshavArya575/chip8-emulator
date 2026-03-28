@@ -1,6 +1,6 @@
 # CHIP-8 Emulator (C + SDL2)
 
-A simple CHIP-8 emulator written in C with SDL2 for graphics.
+A simple CHIP-8 emulator written in C with SDL2 for graphics. Skeletal implementation for learning CPU emulation fundamentals.
 
 ## Features
 
